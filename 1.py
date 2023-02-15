@@ -57,3 +57,5 @@ if __name__ == "__main__":
     import doctest
     # wangshijie@xiaomi.com
     doctest.testmod()
+    user = 'ddai1@xiaomi.com'
+    pass = 'sdasdwasdsad'
