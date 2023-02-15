@@ -9,8 +9,8 @@ def binary_search(array: list, lower_bound: int, upper_bound: int, value: int) -
     0
     >>> binary_search(matrix, 0, len(matrix) - 1, 23)
     -1
+    relay.xiaomi.com
     """
-
     r = int((lower_bound + upper_bound) // 2)
     if array[r] == value:
         return r
