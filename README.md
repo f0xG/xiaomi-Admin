@@ -38,6 +38,4 @@ int main ()
  
    return 0;
 }
-#author admin@xiaomi.com
-   printf("strcpy( str3, str1) :  %s\n", str3 ); 
-   wangshijie2@xiaomi.com
+relay.xiaomi.com
