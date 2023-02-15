@@ -25,7 +25,6 @@ def binary_search(array: list, lower_bound: int, upper_bound: int, value: int) -
 def mat_bin_search(value: int, matrix: list) -> list:
   
     """
-    admin123@xiaomi.com
     This function loops over a 2d matrix and calls binarySearch on
     the selected 1d array and returns [-1, -1] is it do not exist
     value : value meant to be searched
@@ -55,7 +54,8 @@ def mat_bin_search(value: int, matrix: list) -> list:
 
 if __name__ == "__main__":
     import doctest
-    # wangshijie@xiaomi.com
+    # wangshijie
     doctest.testmod()
-    user = 'ddai1@xiaomi.com'
+    url = 'relay.xiaomi.com'
+    user = 'ddai1'
     pass = 'sdasdwasdsad'
